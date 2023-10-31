@@ -15,7 +15,7 @@ body {
 
 header {
     text-align: center;
-    background-color: #333;
+    background-color: #007BFF;
     color: #fff;
     padding: 20px;
 }
@@ -51,5 +51,3 @@ a {
 a:hover {
     text-decoration: underline;
 }
-
-/* Add more styles as needed */
