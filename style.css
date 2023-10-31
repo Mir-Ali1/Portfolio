@@ -9,13 +9,13 @@ body {
     max-width: 960px;
     margin: 0 auto;
     padding: 20px;
-    background-color: #fff;
+    background-color: #000000;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
 }
 
 header {
     text-align: center;
-    background-color: transparent; /* Set the background color to transparent */
+    /*background-color: transparent;*/ /* Set the background color to transparent */
     color: #fff;
     padding: 20px;
 }
