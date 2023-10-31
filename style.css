@@ -15,7 +15,7 @@ body {
 
 header {
     text-align: center;
-    background-color: #007BFF;
+    background-color: transparent; /* Set the background color to transparent */
     color: #fff;
     padding: 20px;
 }
